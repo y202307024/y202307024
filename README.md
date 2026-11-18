@@ -10,8 +10,9 @@
 
 ## 🙋 About Me
 
-- 🎓 유한대학교 컴퓨터공학과 <!-- TODO: 학과명 확인 -->
-- 🏆 **2026 유한대학교 AWS KIROTHON 우수상** — SafeHome 청년 비서
+- 🎓 유한대학교 컴퓨터소프트웨어공학과 (2027.02 졸업 예정)
+- 🏆 **2026 경기도 미래성장페어 창업아이디어 경진대회 경기앵커상** — GROP (팀장)
+- 🏆 **2026 유한대학교 AWS KIROTHON 우수상** — SafeHome 청년 비서 (팀장)
 - 🤖 AI 도구(Kiro, Claude Code)와 함께 기획·설계·구현하는 개발 방식을 연습하고 있습니다
 - 🌱 지금 배우고 있는 것: <!-- TODO: 예) React 상태 관리, Supabase -->
 - 🎯 목표: 풀스택 개발자 <!-- TODO: 목표 직무 -->
@@ -40,6 +41,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-1F1F1F?style=for-the-badge&logo=webrtc&logoColor=white)
 
 **Tools & Environment**
 
@@ -62,6 +64,7 @@
 
 | 프로젝트 | 설명 | 기술 | 내 기여 |
 |---|---|---|---|
-| 🗂 [**GROP**](https://github.com/y202307024/GROP) | 그룹 단위로 회의를 열고, 화이트보드·채팅·녹화·AI 요약으로 회의를 정리하는 협업 웹 서비스 · 졸업작품 <!-- TODO: 수업명/연도 --> | React, TypeScript, Vite, Supabase, Node.js, Excalidraw, Cloudflare R2 | <!-- TODO: 맡은 기능 --> 화면 CSS·반응형 비율 정리, 브랜치 병합 |
-| 🏠 [**SafeHome 청년 비서**](https://github.com/y202307024/safehome-youth) | 첫 자취 월세 계약 전 계약서를 AI로 분석하고 시세·중개사·등기를 점검해 🟢🟡🔴로 판정하는 서비스 · **2026 AWS KIROTHON 우수상** 🏆 | Next.js, TypeScript, Tailwind CSS, Gemini API, Zod, Kiro | 저장소 생성·팀 개발 환경 구성, 시연용 계약서 샘플 제작, 오류 수정 <!-- TODO: 확인 --> |
+| 🗂 [**GROP**](https://github.com/y202307024/GROP) | 실시간 영상·음성 회의에 화이트보드·채팅·녹화·AI 서기(회의 요약)를 결합한 그룹 회의 웹 서비스 · 졸업작품 (4인, 9개월) · **경기앵커상** 🏆 | React, TypeScript, Vite, Node.js, Supabase, LiveKit, Excalidraw, Cloudflare | **팀장(PM)** · 서비스 기획·시스템 아키텍처 설계, 풀스택 개발 참여, UI/UX 검토, 브랜치 병합·통합 관리, 배포 |
+| 🏠 [**SafeHome 청년 비서**](https://github.com/y202307024/safehome-youth) | 첫 자취 월세 계약 전 계약서를 AI로 분석하고 시세·중개사·등기를 점검해 🟢🟡🔴로 판정하는 서비스 · 해커톤 (4인) · **AWS KIROTHON 우수상** 🏆 | Next.js, TypeScript, Tailwind CSS, Gemini API, Zod, Kiro | **팀장** · 기획, AI 분석·개발 프롬프트 설계(Kiro steering 규칙 포함), 저장소·개발 환경 구성, 최종 발표 |
 | 🧮 [**calc**](https://github.com/y202307024/2025oss) | 사칙연산·나머지 연산을 파일 단위로 나눠 협업한 계산기 · 2025 오픈소스소프트웨어 기말 프로젝트 | C++, Git | **팀장** · `calc.cpp` 구현, 팀원 브랜치 병합 |
+
